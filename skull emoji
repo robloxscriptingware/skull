@@ -1,0 +1,55 @@
+if game.PlaceId == (662417684) then
+    wait(1.2)
+    game.StarterGui:SetCore("SendNotification", {
+    Title = "AlienWare";
+    Text = "❓ LUCKY BLOCKS Battlegrounds";
+    Duration = 2;
+    })
+    wait(1)
+    loadstring(game:HttpGet(('https://raw.githubusercontent.com/robloxscriptingware/luck/main/blox'),true))()
+elseif game.PlaceId == (3956818381) then
+    wait(1.2)
+    game.StarterGui:SetCore("SendNotification", {
+    Title = "AlienWare";
+    Text = "⚡Ninja Legends";
+    Duration = 2;
+    })
+    wait(1)
+    loadstring(game:HttpGet(('https://raw.githubusercontent.com/robloxscriptingware/ninja/main/leg'),true))()
+elseif game.PlaceId == (7655745946) then
+    wait(1.2)
+    game.StarterGui:SetCore("SendNotification", {
+    Title = "AlienWare";
+    Text = "Dunking Simulator";
+    Duration = 2;
+    })
+    wait(1)
+    loadstring(game:HttpGet(('https://raw.githubusercontent.com/robloxscriptingware/dunk/main/sim'),true))()
+elseif game.PlaceId == (14184086618) then
+    wait(1.2)
+    game.StarterGui:SetCore("SendNotification", {
+    Title = "AlienWare";
+    Text = "Obby But You're On A Bike";
+    Duration = 2;
+    })
+    wait(1)
+    loadstring(game:HttpGet(('https://raw.githubusercontent.com/robloxscriptingware/obby/main/bike'),true))()
+elseif game.PlaceId == (14184086618) then
+    wait(1.2)
+    game.StarterGui:SetCore("SendNotification", {
+    Title = "AlienWare";
+    Text = "Obby But You're On A Bike";
+    Duration = 2;
+    })
+    wait(1)
+    loadstring(game:HttpGet(('https://raw.githubusercontent.com/robloxscriptingware/obby/main/bike'),true))()
+elseif game.PlaceId == (13772394625) then
+    wait(1.2)
+    game.StarterGui:SetCore("SendNotification", {
+    Title = "AlienWare";
+    Text = "Blade Ball -- Normal Server";
+    Duration = 2;
+    })
+    wait(1)
+    loadstring(game:HttpGet(('https://raw.githubusercontent.com/robloxscriptingware/ball/main/yes'),true))()
+end
